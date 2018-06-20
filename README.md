@@ -36,7 +36,7 @@ Python 3
 - опробованы алгоритмы kMeans (после пробы отказался)
 
 Важные материалы:
-https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
-https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21
-http://mathling.phil.spbu.ru/node/160
+- https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
+- https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21
+- http://mathling.phil.spbu.ru/node/160
 
